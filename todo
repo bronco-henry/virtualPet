@@ -1,0 +1,16 @@
+TODO:
+
+- clean up death checking and program exit
+- edit ">" prompt to be in-line, not on new line.
+- add methods/menus to interact with individual pets
+
+- add ascii art 
+- better pet status printout
+- show better info when interacting with pets
+
+- add more ways to interact with pets
+- add items you can give to pets?
+- add more types of pets
+
+- add more 'game' functionality, perhaps add player class
+- 
